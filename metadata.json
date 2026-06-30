@@ -1,0 +1,6 @@
+{
+  "name": "CTL 학습지원 프로그램 성과관리 시스템",
+  "description": "교수학습센터(CTL)를 위한 학습지원 프로그램의 성과 및 지표(참여율, 성적경고 탈출률, 예산 대비 만족도)를 자동 분석하고 시각화하는 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

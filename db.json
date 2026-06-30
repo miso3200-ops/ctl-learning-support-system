@@ -1,0 +1,497 @@
+{
+  "programs": [
+    {
+      "id": "p1",
+      "year": 2025,
+      "semester": "1학기",
+      "name": "학사경고 극복 1:1 튜터링",
+      "category": "학습컨설팅",
+      "managerName": "김철수",
+      "budget": 1500000,
+      "satisfaction": 4.2
+    },
+    {
+      "id": "p2",
+      "year": 2025,
+      "semester": "1학기",
+      "name": "자기주도 학습동아리",
+      "category": "튜터링",
+      "managerName": "이영희",
+      "budget": 3000000,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "p3",
+      "year": 2025,
+      "semester": "1학기",
+      "name": "효과적인 시간관리 특강",
+      "category": "학습특강",
+      "managerName": "박민수",
+      "budget": 800000,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "p4",
+      "year": 2025,
+      "semester": "2학기",
+      "name": "A+ 학점 달성 멘토링",
+      "category": "튜터링",
+      "managerName": "최수진",
+      "budget": 2500000,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "p5",
+      "year": 2025,
+      "semester": "2학기",
+      "name": "학사경고 탈출 클리닉",
+      "category": "학습컨설팅",
+      "managerName": "김철수",
+      "budget": 1800000,
+      "satisfaction": 4.3
+    },
+    {
+      "id": "p6",
+      "year": 2025,
+      "semester": "2학기",
+      "name": "대학 글쓰기 꿀팁 워크숍",
+      "category": "학습특강",
+      "managerName": "박민수",
+      "budget": 1200000,
+      "satisfaction": 4.1
+    },
+    {
+      "id": "p7",
+      "year": 2026,
+      "semester": "1학기",
+      "name": "학습 부진학생 집중 컨설팅",
+      "category": "학습컨설팅",
+      "managerName": "김철수",
+      "budget": 2000000,
+      "satisfaction": 4.4
+    },
+    {
+      "id": "p8",
+      "year": 2026,
+      "semester": "1학기",
+      "name": "러닝 커뮤니티(그룹 학습)",
+      "category": "튜터링",
+      "managerName": "이영희",
+      "budget": 3500000,
+      "satisfaction": 4.7
+    },
+    {
+      "id": "p9",
+      "year": 2026,
+      "semester": "1학기",
+      "name": "AI 활용 스마트 학습법 특강",
+      "category": "학습특강",
+      "managerName": "최수진",
+      "budget": 1000000,
+      "satisfaction": 4.8
+    }
+  ],
+  "participants": [
+    {
+      "id": "pt1",
+      "programId": "p1",
+      "studentId": "20231001",
+      "studentName": "강민우",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt2",
+      "programId": "p1",
+      "studentId": "20231002",
+      "studentName": "김지아",
+      "department": "경영학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt3",
+      "programId": "p1",
+      "studentId": "20231003",
+      "studentName": "박태양",
+      "department": "기계공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt4",
+      "programId": "p1",
+      "studentId": "20231004",
+      "studentName": "이지수",
+      "department": "전자공학과",
+      "isCompleted": false
+    },
+    {
+      "id": "pt5",
+      "programId": "p2",
+      "studentId": "20241001",
+      "studentName": "최영민",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt6",
+      "programId": "p2",
+      "studentId": "20241002",
+      "studentName": "정다은",
+      "department": "영어영문학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt7",
+      "programId": "p2",
+      "studentId": "20241003",
+      "studentName": "임재원",
+      "department": "경영학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt8",
+      "programId": "p3",
+      "studentId": "20241001",
+      "studentName": "최영민",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt9",
+      "programId": "p3",
+      "studentId": "20231005",
+      "studentName": "한동희",
+      "department": "화학공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt10",
+      "programId": "p4",
+      "studentId": "20241002",
+      "studentName": "정다은",
+      "department": "영어영문학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt11",
+      "programId": "p4",
+      "studentId": "20231006",
+      "studentName": "송민재",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt12",
+      "programId": "p4",
+      "studentId": "20231007",
+      "studentName": "윤하영",
+      "department": "산업디자인과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt13",
+      "programId": "p5",
+      "studentId": "20231001",
+      "studentName": "강민우",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt14",
+      "programId": "p5",
+      "studentId": "20231008",
+      "studentName": "오상원",
+      "department": "전자공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt15",
+      "programId": "p5",
+      "studentId": "20231009",
+      "studentName": "신지혜",
+      "department": "수학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt16",
+      "programId": "p5",
+      "studentId": "20231010",
+      "studentName": "황정민",
+      "department": "신소재공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt17",
+      "programId": "p7",
+      "studentId": "20231008",
+      "studentName": "오상원",
+      "department": "전자공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt18",
+      "programId": "p7",
+      "studentId": "20231009",
+      "studentName": "신지혜",
+      "department": "수학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt19",
+      "programId": "p7",
+      "studentId": "20231011",
+      "studentName": "류진아",
+      "department": "심리학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt20",
+      "programId": "p7",
+      "studentId": "20231012",
+      "studentName": "고태우",
+      "department": "기계공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt21",
+      "programId": "p8",
+      "studentId": "20241001",
+      "studentName": "최영민",
+      "department": "컴퓨터공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt22",
+      "programId": "p8",
+      "studentId": "20251001",
+      "studentName": "서현우",
+      "department": "경영학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt23",
+      "programId": "p8",
+      "studentId": "20251002",
+      "studentName": "이유나",
+      "department": "생명공학과",
+      "isCompleted": true
+    },
+    {
+      "id": "pt24",
+      "programId": "p8",
+      "studentId": "20251003",
+      "studentName": "안재현",
+      "department": "행정학과",
+      "isCompleted": true
+    }
+  ],
+  "masterStudents": [
+    {
+      "studentId": "20231001",
+      "studentName": "강민우",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.52,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231002",
+      "studentName": "김지아",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.84,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231003",
+      "studentName": "박태양",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.78,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231004",
+      "studentName": "이지수",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.21,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20241001",
+      "studentName": "최영민",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.45,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20241002",
+      "studentName": "정다은",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 4.12,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20241003",
+      "studentName": "임재원",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 2.88,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231005",
+      "studentName": "한동희",
+      "year": 2025,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.2,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231001",
+      "studentName": "강민우",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.95,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231008",
+      "studentName": "오상원",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.81,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231009",
+      "studentName": "신지혜",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.62,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231010",
+      "studentName": "황정민",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": true,
+      "gpa": 2.05,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20241002",
+      "studentName": "정다은",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.9,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231006",
+      "studentName": "송민재",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.11,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231007",
+      "studentName": "윤하영",
+      "year": 2025,
+      "semester": "2학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.55,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231008",
+      "studentName": "오상원",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 2.45,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231009",
+      "studentName": "신지혜",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.88,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231011",
+      "studentName": "류진아",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.91,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20231012",
+      "studentName": "고태우",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": true,
+      "gpa": 1.45,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20241001",
+      "studentName": "최영민",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.6,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20251001",
+      "studentName": "서현우",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.82,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20251002",
+      "studentName": "이유나",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 2.95,
+      "enrollmentStatus": "재학"
+    },
+    {
+      "studentId": "20251003",
+      "studentName": "안재현",
+      "year": 2026,
+      "semester": "1학기",
+      "hasAcademicWarning": false,
+      "gpa": 3.4,
+      "enrollmentStatus": "재학"
+    }
+  ]
+}
